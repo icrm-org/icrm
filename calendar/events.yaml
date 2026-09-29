@@ -10,7 +10,7 @@
   end-date: '2027-05-21'
   title: 25th International Conference on Radionuclide Metrology and its applications (ICRM 2027)
   description: Rio de Janeiro, Brazil
-  url: 
+  url: "https://icrm2027.org.br/"
 
 # - start-date: '2026-06-08' 
 #   end-date: '2026-06-09'
@@ -18,11 +18,11 @@
 #   description: LS WG meeting at NRC in Canada June 8-9, 2026 
 #   url: 
 
-- start-date: '2026-09-14' 
-  end-date: '2026-09-18'
-  title: 9th International Conference for Radionuclide Metrology – Low-Level Radioactivity Measurements and Techniques (ICRM-LLRMT)
-  description: The ICRM-LLRMT working group will host its conference in Ottawa, Canada. Registration closes July 31, 2026
-  url: "https://icrmllrmt2026.vfairs.com"
+#- start-date: '2026-09-14' 
+#  end-date: '2026-09-18'
+#  title: 9th International Conference for Radionuclide Metrology – Low-Level Radioactivity Measurements and Techniques (ICRM-LLRMT)
+#  description: The ICRM-LLRMT working group will host its conference in Ottawa, Canada. Registration closes July 31, 2026
+#  url: "https://icrmllrmt2026.vfairs.com"
 
 # - start-date: '2026-06-11'
 #   end-date: '2026-06-12'
