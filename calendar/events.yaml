@@ -1,5 +1,6 @@
  # List of events (add more months/events as needed)
 
+
 - start-date: '2029-03'
   end-date: '2029-03'
   title: 13th International Conference on Isotopes (ICI13)
@@ -17,6 +18,32 @@
   title: CCRI(II) bienniel meeting
   description: Rio de Janeiro, Brazil
   url: 
+
+- start-date: '2026-12-03'
+  end-date: '2026-12-04'
+  title: CCRI Workshop "50 Years of the SIR"
+  description: BIPM
+  url: "https://www.bipm.org/en/committees/cc/ccri/wg/ccri-ws/2026-12-03"
+
+- start-date: '2026-12-02'
+  end-date: '2026-12-02'
+  title: CCRI Workshop on Iodine Isotope Sample Preparation and Activity Comparisons
+  description: BIPM
+  url: "https://www.bipm.org/en/committees/cc/ccri/wg/ccri-ws/2026-12-02"
+
+- start-date: '2026-12-02'
+  end-date: '2026-12-02'
+  title: RMO SIRTI Working Group Workshop
+  description: BIPM
+  url: "https://www.bipm.org/en/committees/cc/ccri/wg/ccri-ii-rmo_sirti-wg/2026-12-02"
+
+- start-date: '2026-11-30'
+  end-date: '2026-12-01'
+  title: Meeting of the CCRI-KCWG(II) (2026)
+  description: BIPM
+  url: "https://www.bipm.org/en/committees/cc/ccri/wg/ccri-kcwg-ii-/2026-11-30"
+
+
 
 # - start-date: '2026-06-08' 
 #   end-date: '2026-06-09'
