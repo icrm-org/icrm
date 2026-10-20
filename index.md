@@ -33,7 +33,7 @@ National Henri Becquerel (LNE-LNHB).
 
 
 Several ICRM working groups held interim meetings, virtually or in person,
-in 2024, which offered ample opportunity to discuss technical details
+in 2026, which offered ample opportunity to discuss technical details
 of specific sub-fields of radionuclide metrology more informally. ICRM member
 institutions are strongly encouraged to give young researchers the possibility
 to participate in such interim meetings. For details, contact the Working Group
