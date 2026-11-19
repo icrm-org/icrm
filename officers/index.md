@@ -23,10 +23,6 @@ National Institute of Standards and Technology (NIST), Physical Measurement Labo
 
 ## Vice-Presidents
 
-**K. Kossert**\
-<karsten.kossert@ptb.de>\
-Physikalisch-Technische Bundesanstalt (PTB), Fachbereich 6.1, Bundesallee 100, D-38116 Braunschweig, Germany
-
 **S. Bell**\
 <steven.bell@npl.co.uk>\
 National Physical Laboratory (NPL), Hampton Road, Teddington, Middlesex, TW11 0LW, UK
@@ -34,6 +30,12 @@ National Physical Laboratory (NPL), Hampton Road, Teddington, Middlesex, TW11 0L
 **M.A. Kellet**\
 <mark.kellett@cea.fr>\
 Laboratoire National Henri Becquerel (LNE-LNHB), CEA-Saclay, F-91191 Gif-sur-Yvette Cedex, France
+
+**M. Capogni**\
+<marco.capogni@enea.it>\
+Agenzia nazionale per le nuove tecnologie, l'energia e lo sviluppo economico sostenibile  (ENEA), Lungotevere Thaon di Revel, 76
+00196 ROMA Italia
+
 
 ## Secretary
 
@@ -43,16 +45,16 @@ Australia's Nuclear Science and Technology Organisation (ANSTO), New Illawarra R
 
 ## Nominating Committee
  
-**Chair : R. Broda**\
+**Chair : Y. Sato**\
+<yss.sato@aist.go.jp>\
+National Metrology Institute of Japan (NMIJ), AIST Tsukuba Central 2, 1-1-1, Umezono, Tsukuba, Ibaraki, 305-8568, Japan
+
+**R. Broda**\
  <ryszard.broda@polatom.pl>\
 National Centre for Nuclear Research
 Radioisotope Centre (POLATOM), Andrzeja Sołtana 7
 05-400 Otwock – Świerk
 Polska
-
-**Y. Sato**\
-<yss.sato@aist.go.jp>\
-National Metrology Institute of Japan (NMIJ), AIST Tsukuba Central 2, 1-1-1, Umezono, Tsukuba, Ibaraki, 305-8568, Japan
 
 **M. van Rooy**\
 <MvRooy@nmisa.org>\
