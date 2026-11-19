@@ -6,7 +6,7 @@ nav_order: 6
 
 # Officers of the ICRM, 2025–2027
 
-The newly elected officers will officially take over at the next Executive Board meeting in the fall 2025. 
+<!--The newly elected officers will officially take over at the next Executive Board meeting in the fall 2027.--> 
 
 ## President
 
